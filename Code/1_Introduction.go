@@ -1,4 +1,4 @@
-// Go was born in order to run fast as C and has the simplicity of python.
+// Go was born in 2009 to run fast as C and has the simplicity of python.
 
 // Go is a compiled language which means that before the execution, it should be
 // transformed in something that the computer can manage, like the assembly language.

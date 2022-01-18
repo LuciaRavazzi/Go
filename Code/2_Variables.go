@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 // A variable is something which store an amount of information.
-// A static type language, like go and C, the type of a variable cannot change.
-// On the other ahdn, a dynamic type language, the type is allowed to be modified.
+// A **static type language**, like go and C, the type of a variable cannot change.
+// On the other ahdn, a **dynamic type language**, the type is allowed to be modified.
 
 // There are different type:
 // 		- uint8: 8 bit, unsigned. (0-255)
