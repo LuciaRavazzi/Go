@@ -7,8 +7,10 @@ Moeover, since it's a static type language, the variable's type must be defined.
 
 The main explained topics are the following:
 
-<il> Variables </il>  
-<il> If, loops, switch </il>  
-<il> Functions, structs, pointers, deferences </il>  
-
+<ol>
+<li> Variables </li>  
+<li> If, loops, switch </li>  
+<li> Functions, structs, pointers, deferences </li>  
+</ol>
+  
 The tutorial was explained by Tech With Tim, https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg.
