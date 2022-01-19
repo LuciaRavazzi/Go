@@ -1,6 +1,6 @@
 # Go
 
-![alt text](https://www.simoncode.net/wp-content/uploads/2019/05/Risultati-immagini-per-golang.png)
+![alt text](https://www.lffl.org/wp-content/uploads/2021/02/go-golang-1155x710.jpg)
 
 This repo consists of a basic introduction to Go programming language.
 Go was born in 2009 and designed by Google's employees. It's characterized by the velocity of C but the semplicity of python. 
