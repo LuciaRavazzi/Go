@@ -1,5 +1,7 @@
 # Go
 
+![alt text](https://www.simoncode.net/wp-content/uploads/2019/05/Risultati-immagini-per-golang.png)
+
 This repo consists of a basic introduction to Go programming language.
 Go was born in 2009 and designed by Google's employees. It's characterized by the velocity of C but the semplicity of python. 
 It's a compiled language, which means that a compiler is required to trasform the code into a low-level language code, like assembly. 
