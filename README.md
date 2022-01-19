@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" width="350px"</img> 
+    <img align = "right" src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" width="350px"</img> 
 </div>
 
 
