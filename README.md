@@ -15,8 +15,8 @@ Moreover, since it's a static type language, the variable's type must be defined
 The main explained topics are the following:
 
 <ol>
-    <li> *Code/Introduction*: variables, if, loops, switch, functions, structs, pointers, deferences. </li>
-    <li> *Code/GO-API: simple API is built. *</li>
+    <li> **Code/Introduction**: variables, if, loops, switch, functions, structs, pointers, deferences. </li>
+    <li> **Code/GO-API**: simple API is built. *</li>
 
 </ol>
   
