@@ -15,9 +15,9 @@ Moreover, since it's a static type language, the variable's type must be defined
 The main explained topics are the following:
 
 <ol>
-    <li> **Code/Introduction**: variables, if, loops, switch, functions, structs, pointers, deferences. </li>
-    <li> **Code/GO-API**: simple API is built. *</li>
+    <li> Code/Introduction: variables, if, loops, switch, functions, structs, pointers, deferences. The tutorial was explained by Tech With Tim, https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg. </li>
+    <li> Code/GO-API: simple API is built. Video explanation: https://www.youtube.com/watch?v=bj77B59nkTQ </li>
 
 </ol>
   
-The tutorial was explained by Tech With Tim, https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg.
+
